@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @princeshakhzod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-princeshakhzod/princeshakhzod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @princeshakhzod  
+- 👀 I’m interested in ethical hacking, Telegram bots, Web Sites, and automation  
+- 🌱 I’m currently learning advanced cybersecurity and Android app development  
+- 💞️ I’m looking to collaborate on open-source security tools, bot APIs, and educational projects  
+- 📫 How to reach me: tg.me/PrinceShakhzod  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I automate everything, even my laziness 😎
