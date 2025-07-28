@@ -2,6 +2,6 @@
 - 👀 I’m interested in ethical hacking, Telegram bots, Web Sites, and automation  
 - 🌱 I’m currently learning advanced cybersecurity and Android app development  
 - 💞️ I’m looking to collaborate on open-source security tools, bot APIs, and educational projects  
-- 📫 How to reach me: tg.me/PrinceShakhzod  
+- 📫 How to reach me: t.me/PrinceShakhzod  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I automate everything, even my laziness 😎
